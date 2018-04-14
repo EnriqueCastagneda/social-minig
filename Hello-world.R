@@ -1,0 +1,1 @@
+princomp("Hello world")
