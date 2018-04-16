@@ -1,2 +1,1 @@
-princomp("Hello world")
-plot(cars, col="red")
+princomp("Hello world") # Imprimimos el clasico Hola mundo
